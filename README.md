@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JordanVanZyl
 - 👀 I’m interested in anything tech related
-- 🌱 I’m currently learning GoLang
 - 📫 How to reach me jordanvanzylofficial@gmail.com
 
 <!---
