@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanVanZyl
 - 👀 I’m interested in anything tech related
-- 📫 How to reach me jordanvanzylofficial@gmail.com
+- 📫 How to reach me jordanvz.17@gmail.com
 
 <!---
 JordanVanZyl/JordanVanZyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
